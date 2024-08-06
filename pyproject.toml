@@ -6,8 +6,9 @@ authors = ["Nana Insaidoo <nana.insaidoo@meterian.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = ">=3.8"
 integer = "1.0.0"
+pdoc = "14.4.0"
 
 
 [build-system]

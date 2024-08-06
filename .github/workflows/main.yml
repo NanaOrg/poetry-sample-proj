@@ -28,4 +28,4 @@ jobs:
               INPUT_AUTOFIX_SECURITY: conservative
               INPUT_AUTOFIX_STABILITY: conservative
               INPUT_AUTOFIX_WITH_PR: true
-              INPUT_CLI_ARGS: --flags=env=qa --debug
+              INPUT_CLI_ARGS: --flags=env=qa
