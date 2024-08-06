@@ -6,10 +6,11 @@ authors = ["Nana Insaidoo <nana.insaidoo@meterian.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.6"
 integer = "1.0.0"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
