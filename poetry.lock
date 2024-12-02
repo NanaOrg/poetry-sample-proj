@@ -17,12 +17,12 @@ wheel = ">=0.23.0,<1.0"
 
 [[package]]
 name = "integer"
-version = "1.0"
-description = "Package for creating integer types"
+version = "1.0.3"
+description = "Package for creating integer types."
 optional = false
 python-versions = "*"
 files = [
-    {file = "integer-1.0.tar.gz", hash = "sha256:6bade7b0c5b453ebcb8cd0fa7bc44f04e504f60af744b7badd92c468a8a66095"},
+    {file = "integer-1.0.3.tar.gz", hash = "sha256:9f6e9c7215f7ce9505cfd810468642e3f683e215741e1026b9aa67a8be515d58"},
 ]
 
 [[package]]
@@ -173,4 +173,4 @@ test = ["pytest (>=6.0.0)", "setuptools (>=65)"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8"
-content-hash = "d67a40a12de5c2cd64107ad77f040c98d253cb60500764e938e40e74e08f3b9a"
+content-hash = "3a173cf72fed5c54b6d6f7c6bc219d8c1c3fddca24c6bd8bc207518d71586fe9"

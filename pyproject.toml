@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.8"
-integer = "1.0.0"
+integer = "1.0.3"
 pdoc = "14.4.0"
 
 
